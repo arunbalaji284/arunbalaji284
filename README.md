@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @arunbalaji284
-- 👀 I’m interested in programming languages like c,c++ aand java
-- 🌱 I’m currently learning c++
+- 👀 I’m interested in programming.
+- 🌱 I’m a Web Developer.
 - 💞️ I’m looking to collaborate on learning new skills
 - 📫 reach me arunbalaji284@gmail.com
 
